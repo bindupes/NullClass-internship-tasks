@@ -60,11 +60,11 @@ This internship was part of my **training program**, and my goal was to implemen
 - **Issue:** Correlation heatmap wasn’t working due to incompatible data types
   - **Solution:** Converted necessary columns and restructured the dataset properly
  
-##**Feedback:**
+## **Feedback:**
 
 During the internship, there were a few instances where I encountered difficulties, especially with data conversions and time-based filtering, but I was able to work through these challenges. While some tasks were hard, they pushed me to think critically and develop problem-solving skills. The level of the questions and tasks was appropriate, which allowed me to learn and grow as a data analyst.
 
-**Evidence:**
+## **Evidence:**
 
 I successfully resolved issues with non-numeric values in the dataset by using data conversion methods and filtering techniques. The final project, including cleaned data and visualizations, was pushed to GitHub, showcasing my ability to handle the challenges independently. All tasks were completed according to the requirements, and the solution was well-documented in the Jupyter notebook.
 
